@@ -1,0 +1,9 @@
+# Ignore IntelliJ and build files
+.idea/
+*.iml
+target/
+out/
+
+# OS junk
+.DS_Store
+Thumbs.db
